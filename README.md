@@ -28,7 +28,7 @@ Slackへ飛ばすのはIFTTTも使わずもっと簡単に可能です！
 - Gmail
 - IFTTT(Webhooks)
 - Evernote
-- Google Apps Scripts
+- Google Apps Script
 
 ※Evernoteは有料プランである必要はありません。
 
