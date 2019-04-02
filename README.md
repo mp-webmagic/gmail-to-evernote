@@ -35,7 +35,7 @@ Slackへ飛ばすのはIFTTTも使わずもっと簡単に可能です！
 ## おおまかな流れ
 
 1. IFTTTでWebhookとEvernoteを使えるようにします。
-2. IFにWebhook、THENにEvernoteを入れてレシピを作ります。
+2. IFにWebhook(event名はGmailにしてください)、THENにEvernoteを入れてレシピを作ります。
 3. IFTTTのWebhookのURLをメモします。
 4. code.gsの中身をコピーしてGoogle Apps Scriptsのスクリプトエディタに貼り付けます。
 5. 【ラベル名】や【WebhooksのURL】を自分用に変えてください。
