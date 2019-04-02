@@ -9,13 +9,22 @@ Gmailでスターを付ける
 ↓
 自動でEvernoteに送信者・タイトル・日時が記録される
 
-簡単に言うとこんな感じです。
-あの頃どんな仕事してたっけみたいなライフログに使えます。
+### サンプル
+
+```
+★Gmail(starred): Fitbit <noreply@fitbit.com>「Fitbit から今週のアクティビティをお知らせします！」Tue Apr 02 2019 10:52:29 GMT+0900 (JST), https://mail.google.com/mail/u/0/#inbox/xxxxxxxxxxxxxxxxx April 2, 2019 at 11:54PM
+
+```
+
+こんな感じでEvernoteに記録されます。
+スターを付けたら記録される仕組み。
+あのころどんな仕事してたっけ？がぱっと見てわかるものが作りたかった。
 
 IFTTT経由なので、カスタマイズすればEvernoteだけでなく様々なものへ飛ばせます。
 Slackへ飛ばすのはIFTTTも使わずもっと簡単に可能です！
 
 ## 使用サービス
+
 -Gmail
 -IFTTT(Webhooks)
 -Evernote
@@ -34,6 +43,7 @@ Slackへ飛ばすのはIFTTTも使わずもっと簡単に可能です！
 7. Google Apps Script のトリガーを使って、時間で発動するように設定してください。
 
 # 変更必須（2箇所）
+
 Gmailでのラベル名とWebhooksのURLは自分用のものが必須です。
 
 ```
