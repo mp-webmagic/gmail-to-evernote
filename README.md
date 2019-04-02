@@ -12,16 +12,15 @@ Gmailでスターを付ける
 ### サンプル
 
 ```
-★Gmail(starred): Fitbit <noreply@fitbit.com>「Fitbit から今週のアクティビティをお知らせします！」Tue Apr 02 2019 10:52:29 GMT+0900 (JST),
-
+★Gmail(starred): Fitbit <noreply@fitbit.com>「Fitbit から今週のアクティビティをお知らせします！」Tue Apr 02 2019 10:52:29 GMT+0900 (JST),  
 https://mail.google.com/mail/u/0/#inbox/xxxxxxxxxxxxxxxxx April 2, 2019 at 11:54PM
 ```
 
-こんな感じでEvernoteに記録されます。
-スターを付けたら記録される仕組み。
+こんな感じでEvernoteに記録されます。  
+スターを付けたら記録される仕組み。  
 あのころどんな仕事してたっけ？がぱっと見てわかるものが作りたかった。
 
-IFTTT経由なので、カスタマイズすればEvernoteだけでなく様々なものへ飛ばせます。
+IFTTT経由なので、カスタマイズすればEvernoteだけでなく様々なものへ飛ばせます。  
 Slackへ飛ばすのはIFTTTも使わずもっと簡単に可能です！
 
 ## 使用サービス
