@@ -25,10 +25,10 @@ Slackへ飛ばすのはIFTTTも使わずもっと簡単に可能です！
 
 ## 使用サービス
 
--Gmail
--IFTTT(Webhooks)
--Evernote
--Google Apps Scripts
+- Gmail
+- IFTTT(Webhooks)
+- Evernote
+- Google Apps Scripts
 
 ※Evernoteは有料プランである必要はありません。
 
